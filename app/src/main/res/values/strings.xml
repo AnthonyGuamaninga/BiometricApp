@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BiometricApp</string>
+    <string name="biometric_success">Presione para autenticar</string>
+    <string name="biometric_no_hardware">Caracteristicas del biometrico no habiltadas</string>
+    <string name="no_user">El usuario no está logeado</string>
+</resources>
